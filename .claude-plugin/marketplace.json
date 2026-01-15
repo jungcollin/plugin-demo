@@ -11,10 +11,6 @@
     {
       "name": "simple-kitchen",
       "source": "./simple-kitchen"
-    },
-    {
-      "name": "premium-kitchen",
-      "source": "./premium-kitchen"
     }
   ]
 }
